@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Maximiliano
 #### Solutions Architect :globe_with_meridians: Copenhagen :denmark:
-Passionate about interacting and learning new technologies. I enjoy coding in my free time, especially Python applications (Backend and Frontend) :rocket:
+Passionate about interacting and learning new technologies. I enjoy coding in my free time, especially with PHP and Python applications (Backend and Frontend) :rocket:
 <br>
 <br>
 Skills:
@@ -9,9 +9,9 @@ Skills:
 
 <br>
 
-- 🔭 I’m currently working on Python apps 
-- 🌱 I’m currently learning Reflex and Astro
-- 👯 I’m looking to collaborate on Python projects (both Backend and Frontend)
+- 🔭 I’m currently working on PHP, Laravel and Wordpress developments 
+- 🌱 I’m currently learning Reflex
+- 👯 I’m looking to collaborate on PHP projects (both Backend and Frontend)
 - 📫 How to reach me: Message on LinkedIn
 
 <br>
